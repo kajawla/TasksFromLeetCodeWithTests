@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/tests_for_legacy.dir/uts/implementStrStrTests.cpp.o -o tests_for_legacy  ../external/gtest/src/googletest-build/lib/libgmock_main.a ../external/gtest/src/googletest-build/lib/libgtest.a ../external/gtest/src/googletest-build/lib/libgmock.a libimplementations.a -lpthread 

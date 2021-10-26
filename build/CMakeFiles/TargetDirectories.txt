@@ -1,0 +1,10 @@
+/home/paro/Pulpit/leetzadania/build/CMakeFiles/rebuild_cache.dir
+/home/paro/Pulpit/leetzadania/build/CMakeFiles/edit_cache.dir
+/home/paro/Pulpit/leetzadania/build/CMakeFiles/test.dir
+/home/paro/Pulpit/leetzadania/build/CMakeFiles/tests1.dir
+/home/paro/Pulpit/leetzadania/build/CMakeFiles/googletest.dir
+/home/paro/Pulpit/leetzadania/build/implement/CMakeFiles/rebuild_cache.dir
+/home/paro/Pulpit/leetzadania/build/implement/CMakeFiles/edit_cache.dir
+/home/paro/Pulpit/leetzadania/build/implement/CMakeFiles/test.dir
+/home/paro/Pulpit/leetzadania/build/implement/CMakeFiles/tests_for_legacy.dir
+/home/paro/Pulpit/leetzadania/build/implement/CMakeFiles/implementations.dir

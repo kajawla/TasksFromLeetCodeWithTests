@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../implement/include/implementStrStr.hpp
+string
+-
+
+/home/paro/Pulpit/leetzadania/implement/src/implementStrStr.cpp
+implementStrStr.hpp
+/home/paro/Pulpit/leetzadania/implement/src/implementStrStr.hpp
+
