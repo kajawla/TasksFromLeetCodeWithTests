@@ -1,0 +1,10 @@
+/home/paro/Pulpit/leet2/build/CMakeFiles/rebuild_cache.dir
+/home/paro/Pulpit/leet2/build/CMakeFiles/edit_cache.dir
+/home/paro/Pulpit/leet2/build/CMakeFiles/test.dir
+/home/paro/Pulpit/leet2/build/CMakeFiles/tests1.dir
+/home/paro/Pulpit/leet2/build/CMakeFiles/googletest.dir
+/home/paro/Pulpit/leet2/build/twoSum/CMakeFiles/rebuild_cache.dir
+/home/paro/Pulpit/leet2/build/twoSum/CMakeFiles/edit_cache.dir
+/home/paro/Pulpit/leet2/build/twoSum/CMakeFiles/test.dir
+/home/paro/Pulpit/leet2/build/twoSum/CMakeFiles/tests_for_legacy.dir
+/home/paro/Pulpit/leet2/build/twoSum/CMakeFiles/implementations.dir
