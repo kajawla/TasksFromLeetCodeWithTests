@@ -1,0 +1,10 @@
+/home/paro/Pulpit/leetzadania/ReverseInt/build/CMakeFiles/rebuild_cache.dir
+/home/paro/Pulpit/leetzadania/ReverseInt/build/CMakeFiles/edit_cache.dir
+/home/paro/Pulpit/leetzadania/ReverseInt/build/CMakeFiles/test.dir
+/home/paro/Pulpit/leetzadania/ReverseInt/build/CMakeFiles/tests1.dir
+/home/paro/Pulpit/leetzadania/ReverseInt/build/CMakeFiles/googletest.dir
+/home/paro/Pulpit/leetzadania/ReverseInt/build/reverseInt/CMakeFiles/rebuild_cache.dir
+/home/paro/Pulpit/leetzadania/ReverseInt/build/reverseInt/CMakeFiles/edit_cache.dir
+/home/paro/Pulpit/leetzadania/ReverseInt/build/reverseInt/CMakeFiles/test.dir
+/home/paro/Pulpit/leetzadania/ReverseInt/build/reverseInt/CMakeFiles/tests_for_legacy.dir
+/home/paro/Pulpit/leetzadania/ReverseInt/build/reverseInt/CMakeFiles/implementations.dir
