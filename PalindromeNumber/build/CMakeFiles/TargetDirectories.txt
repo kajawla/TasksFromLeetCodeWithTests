@@ -1,0 +1,9 @@
+/home/paro/Pulpit/leetzadania/PalindromeNumber/build/CMakeFiles/rebuild_cache.dir
+/home/paro/Pulpit/leetzadania/PalindromeNumber/build/CMakeFiles/edit_cache.dir
+/home/paro/Pulpit/leetzadania/PalindromeNumber/build/CMakeFiles/test.dir
+/home/paro/Pulpit/leetzadania/PalindromeNumber/build/CMakeFiles/googletest.dir
+/home/paro/Pulpit/leetzadania/PalindromeNumber/build/palindromeNumber/CMakeFiles/rebuild_cache.dir
+/home/paro/Pulpit/leetzadania/PalindromeNumber/build/palindromeNumber/CMakeFiles/edit_cache.dir
+/home/paro/Pulpit/leetzadania/PalindromeNumber/build/palindromeNumber/CMakeFiles/test.dir
+/home/paro/Pulpit/leetzadania/PalindromeNumber/build/palindromeNumber/CMakeFiles/tests_for_legacy.dir
+/home/paro/Pulpit/leetzadania/PalindromeNumber/build/palindromeNumber/CMakeFiles/implementations.dir

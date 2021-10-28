@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../palindromeNumber/include/palindromeNumber.hpp
+iostream
+-
+string
+-
+
+/home/paro/Pulpit/leetzadania/PalindromeNumber/palindromeNumber/src/palindromeNumber.cpp
+palindromeNumber.hpp
+/home/paro/Pulpit/leetzadania/PalindromeNumber/palindromeNumber/src/palindromeNumber.hpp
+
